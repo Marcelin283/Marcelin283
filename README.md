@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Marcelin283 Marcelin ADEDZE
+- 👋 Hi, I’m @Marcelin283 Koffi Tanguy Marcelin ADEDZE
 - 👀 I’m interested in Software Engineering 
-- 🌱 I’m currently learning Web & Mobile Development
+- 🌱 I’m currently learning Cybersécurity basics
 - 💞️ I’m looking to collaborate on any project of web and mobile development
-- 📫 How to reach me  Whatsapp number +22897100175 email marcelinadedze88@gmail.com
+- 📫 How to reach me  Whatsapp number +22890514325 email adedze.koffi@icloud.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i'm kid danger
 
